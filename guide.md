@@ -43,7 +43,5 @@ Gestion intelligente de votre élevage avicole
   * Météo
   * État de la porte (fermée / ouverte)
 
-## 3. Assistance technique
 
-📞 Support : +212 691086670
 
