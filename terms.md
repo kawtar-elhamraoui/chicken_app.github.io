@@ -77,10 +77,6 @@ Les présentes conditions sont soumises au droit marocain. En cas de litige, une
 
 ---
 
-## 11. Contact
 
-Pour toute question :
-📧 Email : [support@chickegate.app](mailto:kawtarelhamraoui11@gmail.com)
-📞 Téléphone : +212 691086670
 
 
